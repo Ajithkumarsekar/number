@@ -26,6 +26,7 @@ the new package must be backwards compatible with the old package.
 
 ## Reference 
 - [official](https://go.dev/ref/mod)
+- [Talk: Go with Versions - GopherConSG 2018](https://youtu.be/F8nrpe0XWRg)
 - [go.dev create module](https://go.dev/doc/tutorial/create-module)
 - [Developing and publishing modules](https://go.dev/doc/modules/developing#workflow)
 
