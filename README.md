@@ -1,7 +1,7 @@
 # number
 [![Go Reference](https://pkg.go.dev/badge/github.com/ajithkumarsekar/number.svg)](https://pkg.go.dev/github.com/ajithkumarsekar/number)
 
-Go package for every numbers operations. nah! Just learning to publish packages :)
+Go package for every numbers operations. nah! Just learning about go modules :)
 
 ### What is Go module?
 Go module is a collection of packages
