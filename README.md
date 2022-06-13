@@ -13,6 +13,10 @@ Go module is a collection of packages
 | v2+     | A new major version. Breaks compatibility with the previous version. A new sub-folder must be created with v2 and all the source code should be copied with renamed import paths. eg. https://github.com/googleapis/gax-go. Module users should explicitly go get with version number at the end of the module name like `go get rsc.io/quote/v3@latest` | 
 
 [refer go modules series](https://go.dev/blog/publishing-go-modules)
+
+Golang import compatibility rule:
+> If an old package and a new package have the same import path,
+the new package must be backwards compatible with the old package.
 ### why go.sum?
 ### go get order of priority?
 
